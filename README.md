@@ -1,7 +1,6 @@
 <h1 align="center">Hi 🖐️, I'm Ayushi Tyagi</h1>
 <h3 align="center">Dedicated B.Tech Undergraduate at ABESEC, with a passion for Full Stack Development and Coding.</h3>
 
-<img align="right" alt="coding" width="400" src=""C:\Users\Ayushi Tyagi\Desktop\601014116770475.6068beff4640a.gif"">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi-tyagi080&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi-tyagi080" /> </p>
 
