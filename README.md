@@ -1,10 +1,10 @@
-<h1 align="center">Hi 🖐️, I'm Ayushi Tyagi</h1>
-<h3 align="center">Dedicated B.Tech Undergraduate at ABESEC, with a passion for Full Stack Development and Coding.</h3>
+<h1 align="left">Hi 🖐️, I'm Ayushi Tyagi</h1>
+<h3 align="left">Dedicated B.Tech Undergraduate at ABESEC, with a passion for Full Stack Development and Coding.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi-tyagi080&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi-tyagi080" /> </p>
 
-- 🌱 I’m currently learning **MERN and Problem Solving**
+- 🚀 I’m currently learning **MERN and Problem Solving**
 
 - 💬 Ask me about **React, Python, Cpp, Bootstrap**
 
