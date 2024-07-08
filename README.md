@@ -14,9 +14,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/ayushi-tyagi-380202228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushi-tyagi-380202228" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ayushityagi08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ayushityagi08" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ayushi_tyagi008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ayushi_tyagi008" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ayushityagi08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ayushityagi08/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/file:///c:/users/ayushi%20tyagi/desktop/ayushi__resume.pdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="file:///c:/users/ayushi%20tyagi/desktop/ayushi__resume.pdf" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/Ayushi_Tyagi008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/Ayushi_Tyagi008" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/ayushityagi08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ayushityagi08/" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/tyagiayu9lzp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/tyagiayu9lzp/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
