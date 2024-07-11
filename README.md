@@ -6,7 +6,7 @@
 
 - 🚀 I’m currently learning **MERN and Problem Solving**
 
-- 💬 Ask me about **React, Python, Cpp, Bootstrap**
+- 💬 Ask me about **React, Python, Cpp, Javascript, Bootstrap**
 
 - 📫 How to reach me **tyagi.ayushi412@gmail.com**
 
