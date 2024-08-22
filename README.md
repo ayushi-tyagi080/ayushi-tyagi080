@@ -24,6 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushi-tyagi080&show_icons=true&locale=en&layout=compact" alt="ayushi-tyagi080" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushi-tyagi080&show_icons=true&locale=en" alt="ayushi-tyagi080" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushi-tyagi080&" alt="ayushi-tyagi080" /></p>
