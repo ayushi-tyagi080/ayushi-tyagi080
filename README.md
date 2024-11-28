@@ -6,7 +6,7 @@
 
 - 🚀 I’m currently learning **MERN, DSA and Problem Solving**
 
-- 💬 Ask me about **MERN, Python, Cpp, Javascript**
+- 💬 Ask me about **MERN, Cpp, Python, Javascript**
 
 - 📫 How to reach me **tyagi.ayushi412@gmail.com**
 
